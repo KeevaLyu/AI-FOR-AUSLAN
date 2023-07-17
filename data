@@ -1,0 +1,11 @@
+-data
+  --SP_pose
+    ---train.pkl
+    ---test_feature.pkl
+    ---val.pkl
+  --SP_S_s16s2
+    ---train.pkl
+    ---test_feature.pkl
+    ---val.pkl
+
+Please download in https://drive.google.com/drive/folders/11GbFifAuSuaVkwtgzaxIRayszd66ldMc
